@@ -1,0 +1,10 @@
+.hello{
+    color: rgb(147, 62, 62);
+    background: url('./girl.webp');
+    background-size: contain;
+}
+
+img{
+    width: auto;
+    height: 150px;
+}
